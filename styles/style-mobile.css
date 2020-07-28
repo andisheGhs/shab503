@@ -40,7 +40,6 @@ body {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
-    /*background-color: yellow;*/
     margin-top: 164px;
     margin-left: 200px;
     width: 25%;
@@ -73,7 +72,6 @@ body {
     justify-content: space-between;
     background-color: black;
     border-radius: 24px;
-    /*padding: 0px 10px;*/
     width: 90%;
     height: 30%;
     margin-top: 20px;
@@ -82,7 +80,6 @@ body {
 .p2 {
     color: #fec606;
     font-size: 20px;
-    /*margin: 21px 14px 15px 0px;*/
     position: relative;
     bottom: 3px;
     right: 32px;
@@ -133,12 +130,9 @@ body {
     direction: rtl;
     color: white;
     font-size: 20px;
-    /*margin: 14px 0px 0px -55px;*/
     position: relative;
     top: 20px;
     right: 5px;
     /*left: 20px;*/
     text-align: center;
 }
-
-

@@ -40,7 +40,6 @@ body {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
-    /*background-color: yellow;*/
     margin-top: 164px;
     margin-left: 200px;
     width: 25%;
@@ -63,7 +62,6 @@ body {
 .p1 {
     color: white;
     font-size: 33px;
-    /*background-color: black;*/
 }
 
 .support_team_box {
@@ -81,7 +79,6 @@ body {
 .p2 {
     color: #fec606;
     font-size: 18px;
-    /*margin: 21px 14px 15px 0px;*/
 }
 
 .p3 {
@@ -97,7 +94,6 @@ body {
     position: relative;
     top: 8px;
     left: 7px;
-    /* margin: 24px 0px 0px 14px; */
     font-size: 14px;
 
 }
@@ -135,5 +131,3 @@ body {
     position: relative;
     bottom: 15px;
 }
-
-
